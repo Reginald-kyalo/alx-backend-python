@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """implements zoom_array
 """
 from typing import Tuple, List, Any, Union
